@@ -1,1 +1,1 @@
-# Water_Qualitty_monitoring
+# Water_Quality_monitoring
